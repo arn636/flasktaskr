@@ -13,5 +13,4 @@ install:
   - pip install -r requirements.txt
 
 # run tests
-scripts:
-  - nosetests
+scripts: unittests
